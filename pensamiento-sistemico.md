@@ -20,3 +20,10 @@ La investigación está dividida en cuatro pasos:
 2. Autopsia del problema: modelo del iceberg.
 3. Aterrizando el problema.
 4. Evaluación de las soluciones actuales.
+
+
+## Documento completo
+
+Puedes consultar nuestra investigación sobre la crisis del IMSS en el siguiente archivo:
+
+[Ver investigación completa en PDF]({{ '/assets/files/pensamiento%20ingenieria%20%282%29.pdf' | relative_url }})
